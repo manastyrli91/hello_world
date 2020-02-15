@@ -1,5 +1,4 @@
-# hello_world
-just another repository
+
 using System;
 
 namespace Simple
